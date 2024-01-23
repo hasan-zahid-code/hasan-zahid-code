@@ -23,4 +23,4 @@
 - Visual Studio Code
 
 ## LinkedIn:
-[![LinkedIn Badge](<>)](<[your LinkedIn profile link](https://www.linkedin.com/in/hasanzahidseo/)https://www.linkedin.com/in/hasanzahidseo/>)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasanzahidseo/)
