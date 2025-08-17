@@ -1,5 +1,28 @@
-# Hey, I'm Hasan! 👋
-I'm a passionate full-stack developer with hands-on experience in building scalable web and mobile applications. I enjoy solving real-world problems using clean code, modern frameworks, and efficient data structures.
+# 👋 Hi, I’m Hasan Zahid  
+
+🚀 **Data & Automation Engineer** | 💻 **Software Engineer** | ⚡ **Automation Enthusiast**  
+
+I specialize in building **automation workflows**, **AI-powered integrations**, and **scalable software solutions**. My work bridges data engineering, workflow orchestration, and AI-driven automation — helping businesses save hours of manual effort and unlock efficiency.  
+
+---
+
+## 🔧 What I Do
+- **Automation & Orchestration**: Make.com, n8n, Zapier, Apache Airflow, webhooks & custom API integrations  
+- **AI & LLM Integration**: OpenAI GPT, Anthropic Claude, RAG with FAISS, intelligent workflow automation  
+- **Software Development**: Python, JavaScript, SQL, PHP, Node.js, Next.js, Express.js  
+- **Data Engineering**: ETL/ELT pipelines, Google BigQuery, PostgreSQL, MongoDB, Supabase  
+- **Cloud & Tools**: Google Cloud Platform, AWS S3, Looker, DataBox, Airtable, Google Apps Script  
+
+---
+
+## 🏆 Highlights
+- Automated **50+ repetitive tasks** across operations & finance, saving **20+ hours weekly**  
+- Orchestrated **real-time data pipelines** across 15+ systems handling **500K+ records daily**  
+- Built **AI-powered business strategy report automation**, cutting report creation time by **94%**  
+- Migrated **7TB+ video data** from Zoom → Google Drive with Python automation scripts  
+- Streamlined **Shopify–Drupal eCommerce integration**, processing **$100K+ transactions monthly**  
+
+---
 
 ## 💻 Tech Stack:
 <p align="left"> 
@@ -25,7 +48,7 @@ I'm a passionate full-stack developer with hands-on experience in building scala
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code Badge"/> 
 </p>
 
+---
 
-
-## 🌐 Connect with Me:
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/hasanzahidseo/)
+## 🌍 Let’s Connect  
+📩 [Email](mailto:hasan-zahid@outlook.com) | 💼 [LinkedIn](https://linkedin.com/in/hasanzahidseo) | 🌐 [Portfolio](https://hasanz.vercel.app)  
